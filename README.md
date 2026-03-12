@@ -107,7 +107,7 @@ Some insights obtained from the analysis include:
 
 # 📷 Dashboard Preview
 
-*(You can add a screenshot of the dashboard here)*
+
 
 ```
 Dashboard/Screenshot (25).png
