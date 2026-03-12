@@ -123,13 +123,13 @@ The goal of this project is to demonstrate how **data visualization can help ret
 
 # 👨‍💻 Author
 
-**Rohit Rai (Team Lead)**
-**Rohit Singh**
-**Saksham**
-**Sahil chauhan**
+**Rohit Rai (Team Lead) |**
+**Rohit Singh |**
+**Saksham |**
+**Sahil chauhan |**
 
 
-B.Tech Student | Aspiring Backend Engineer | Data & AI Enthusiast
+
 
 ---
 
