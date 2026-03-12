@@ -4,7 +4,7 @@ An interactive **Tableau dashboard** analyzing how product placement, pricing, p
 The project helps identify patterns that can assist retailers in optimizing product positioning strategies.
 
 🔗 **Live Dashboard:**
-https://public.tableau.com/views/ProductPlacementAnalysisDashboard_17733396031030/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/ProductPlacementAnalysisDashboard_17733396031030/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
